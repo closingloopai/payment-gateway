@@ -1,2 +1,3 @@
 # payment-gateway
-Charges, refunds, idempotency, webhook verification
+
+Charges, refunds, idempotency and webhook verification for Acme payments.
